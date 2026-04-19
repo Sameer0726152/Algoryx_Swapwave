@@ -50,4 +50,11 @@ Type something like:
 - `Swap half my eth to bitcoin`
 - `Get DAI with 0.5 ETH`
 
+## Live Demo
+https://swapwave.vercel.app
+
+## Smart Contract
+Network: HeLa Testnet
+Address: 0x28DaED322680592883F685716975D75DB1037724
+
 The app parses your intent, fetches all quotes, and shows you the best rate with full route explanation.
