@@ -57,4 +57,9 @@ https://swapwave.vercel.app
 Network: HeLa Testnet
 Address: 0x28DaED322680592883F685716975D75DB1037724
 
+## Example Transactions
+1.0x12bf77af259787d61e9b996365c6e9030742706bb8e8f1b865e01f7f978d2da2 (simulate swap USDC -> ETH)
+2.0x6f38bfa979d85558392855508e5c9b4b29460bb0fac89edfb42a1ac9c0b9f72b (simulate swap ETH -> DAI)
+3.0x4556807c27eec3fe503cf7c9525cdcf589f5914cd08c8328d04af7bbe95ab8a8 (simulate swap ETH -> USDC)
+
 The app parses your intent, fetches all quotes, and shows you the best rate with full route explanation.
