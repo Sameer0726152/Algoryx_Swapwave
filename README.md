@@ -4,7 +4,7 @@ A web app where users describe token swaps in plain English and get the best rat
 
 ## What It Does
 
-- Parse natural language swap intent (powered by Groq AI + fallback regex)
+- Natural language intent parser understands plain-English swap requests
 - Fetch live quotes from 4 DEX aggregators in parallel: Paraswap, 0x, KyberSwap, OpenOcean
 - Display best route with explanation and full comparison table
 - Simulate or execute swaps via MetaMask
@@ -15,7 +15,7 @@ A web app where users describe token swaps in plain English and get the best rat
 - React + Vite (frontend)
 - ethers.js v6 (wallet + transaction)
 - wagmi (wallet connection)
-- Groq LLaMA3 (intent parsing)
+- Regex-based natural language intent parser
 - Paraswap, 0x, KyberSwap, OpenOcean (DEX quotes)
 - Solidity (HeLa Testnet smart contract)
 
