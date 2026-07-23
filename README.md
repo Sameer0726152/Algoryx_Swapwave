@@ -121,7 +121,7 @@ https://youtu.be/_K3xeWToP2M
 | **Nihar Bhavsar** | https://github.com/niharbhavsar5-creator |
 | **Namrata Dalvi** | https://github.com/namratadalvi11 |
 | **Pranjal Patil** | https://github.com/<COLLABORATOR_4_USERNAME> |
-| **Rahul Dupare** | https://github.com/<COLLABORATOR_4_USERNAME> |
+| **Rahul Dupare** | https://github.com/jadeleunatic92381 |
 
 ## 📌 Summary
 
