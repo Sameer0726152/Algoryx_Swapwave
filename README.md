@@ -120,7 +120,7 @@ https://youtu.be/_K3xeWToP2M
 | **Sameer Talekar** | https://github.com/Sameer0726152 |
 | **Nihar Bhavsar** | https://github.com/niharbhavsar5-creator |
 | **Namrata Dalvi** | https://github.com/namratadalvi11 |
-| **Pranjal Patil** | https://github.com/<COLLABORATOR_4_USERNAME> |
+| **Pranjal Patil** | https://github.com/tinappatil123-cloud |
 | **Rahul Dupare** | https://github.com/jadeleunatic92381 |
 
 ## 📌 Summary
